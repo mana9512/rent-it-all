@@ -96,3 +96,4 @@ npm run dev
 cd frontend
 npm run dev
 
+# rent-it-all
