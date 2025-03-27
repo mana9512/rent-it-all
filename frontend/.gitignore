@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules
+/dist
+/build
+
+# Optional files
+.env
+.DS_Store
+*.swp
+*.swo
+*.code-workspace
+.history
+
+# Testing
+/coverage
+
+# IDEs and editors
+.idea
+.vscode
