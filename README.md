@@ -15,6 +15,9 @@ RentItAll is a modern, enterprise-grade rental apartment application built using
 - **Framer Motion** (animations)
 - **React Hook Form** + **Zod** (form validation)
 
+  <img width="1907" alt="p3rentitall" src="https://github.com/user-attachments/assets/79e0620d-0d8c-4eb8-93e0-7c0d62059875" />
+
+
 ### 🟢 Backend
 - **Node.js** + **Express.js** (API layer)
 - **AWS EC2** (server deployment)
